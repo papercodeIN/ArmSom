@@ -20,3 +20,11 @@
 </p>
 
 ---
+
+### 📺 ArmSom SBC Playlists
+
+- [ArmSom Sige1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI8E5mPCgMaEKsYCAvBaL3O)
+- [ArmSom Forge1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI9y954_VXcspIvGXz4ONaa)
+- [ArmSom CM5 Pro](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIJwhcOY5QQZcM9CcAJ7ojp)
+
+---
