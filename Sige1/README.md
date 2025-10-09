@@ -44,7 +44,6 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 3. 🆓️Meet the ArmSom Sige1 - Your Next Powerful SBC | ArmSom | Banana Pi | IoT | SBC | [[Watch]](https://youtube.com/shorts/VfujhWc-WAw)
 4. ✅DIY Mini PC Using ArmSom Sige1 | Debian XFCE Desktop Linux | Elecrow 7 inch Touch Monitor | [Watch]
 
----
 
 $\color{Green}\Huge{\textbf{Getting Started Guide}}$
 
