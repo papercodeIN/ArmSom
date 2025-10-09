@@ -17,21 +17,7 @@
   </a>
 </p>
 
----
 
-### 📺 ArmSom SBC Playlists
-
-- [ArmSom Sige1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI8E5mPCgMaEKsYCAvBaL3O)
-- [ArmSom Forge1](https://www.youtube.com/playlist?list=PLxrSjjYyzaaI9y954_VXcspIvGXz4ONaa)
-- [ArmSom CM5 Pro](https://www.youtube.com/playlist?list=PLxrSjjYyzaaIJwhcOY5QQZcM9CcAJ7ojp)
-
----
-
-# Buildroot
-```
-sudo apt update
-sudo apt install -y git gcc g++ make libncurses5-dev libssl-dev bc bison flex build-essential libncursesw5-dev device-tree-compiler libglib2.0-dev wget cpio unzip rsync file python3 bc build-essential libncurses5-dev libncursesw5-dev make bc bison flex
-```
 ---
 $\color{Green}\Huge{\textbf{Shorts}}$
 
