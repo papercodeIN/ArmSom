@@ -34,7 +34,7 @@
 
 | # | Title | Link |
 |---|-------|------|
-| 1 | Booting ArmSom Sige1 for the First Time from eMMC | [Watch] |
+| 1 | Booting ArmSom Sige1 for the First Time from eMMC | [Watch](https://youtu.be/h8VrF6olWW8) |
 | 2 | Flashing Debian XFCE Desktop OS to eMMC \| USB Debugging | [Watch] |
 
 ---
